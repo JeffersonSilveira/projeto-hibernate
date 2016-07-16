@@ -1,6 +1,5 @@
 package curso.hibernate.heranca;
 
-import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 @Entity
